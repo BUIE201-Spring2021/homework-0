@@ -7,7 +7,7 @@ In this homework, you are expected to:
 
 •	Do the first assignment
 
-GitHub Instructions
+## GitHub Instructions
 This is the invitation URL for the first assignment: https://classroom.github.com/a/HBJQikT5 Please click the URL and follow the instructions below to set up your GitHub account.
 1.	When you click to the invitation, sign in page opens. If you already have a GitHub account and willing to use it for this class, please sign in with your existing account. Otherwise, create a new account by simply “Create an account” link which is located below of the “Sign In” button. If you are already signed in before clicking, continue with the second step.
 2.	After signing in, Join the classroom page opens. Please find your name from the list and click. If your name is not in the list, continue by clicking “Skip to the next step” button. 
@@ -21,7 +21,7 @@ In your repository, you should be able to see homework-0.sln file and homework-0
 
 
 
-#include<iostream>
+	#include<iostream>
 	
 
 	using namespace std;
@@ -36,7 +36,7 @@ In your repository, you should be able to see homework-0.sln file and homework-0
 	}
 
 
-Visual Studio Instructions
+## Visual Studio Instructions
 Now, you need to install Visual Studio to start the homework. The instructions for the installation are: 
 1.	Open the visual studio download page: Download Visual Studio 2019 for Windows & Mac (microsoft.com) 
 2.	Download Visual Studio 2019 Community edition.
@@ -44,7 +44,7 @@ Now, you need to install Visual Studio to start the homework. The instructions f
 4.	On the opened screen, you should only select and install “Desktop development with C++” (C++ ile masaüstü geliştirme) which is under Desktop & Mobile in Workloads tab. You are not required to do any modifications to the default installation. 
 5.	The installation process will take some time. Wait the installer to download and install necessary components automatically. 
 
-Homework Instructions
+## Homework Instructions
 At this step, you have a GitHub account, a repository for your first homework and a C++ IDE (integrated development environment, which is Visual Studio 2019) on your laptop. Now, you are ready to pull the codes from your repository, modify and push it back. 
 1.	Run Visual Studio 2019 and select “Clone a repository”.
 2.	Go to your homework-0 repository page, click the “Code” button and copy the link on the pop-up. 
