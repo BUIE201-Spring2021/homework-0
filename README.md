@@ -6,7 +6,7 @@ In this homework, you are expected to:
 
 •	Install Visual Studio
 
-•	Do the first assignment
+•	Do the homework
 
 ## GitHub Instructions
 This is the invitation URL for the first assignment: https://classroom.github.com/a/HBJQikT5 Please click the URL and follow the instructions below to set up your GitHub account.
