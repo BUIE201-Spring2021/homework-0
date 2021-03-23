@@ -52,7 +52,9 @@ At this step, you have a GitHub account, a repository for your first homework an
 3.	Paste the link to “Repository location” on Visual Studio, select a path or simply use the default path. Then, click “Clone” at the bottom right corner. 
 4.	Find Source.cpp on Solution Explorer. It is located under homework-0 -> Source Files. Double click to open it. You will see the same code on the previous page.
 5.	Your task is to write your name to the console. Simple edit and add the following line to the code.
-cout << "My name is … " << endl;
+	
+	cout << "My name is … " << endl;
+	
 6.	Run your program by clicking Debug -> Start Debugging or pressing F5. If your program runs correctly, continue.  
 7.	Now, you have some changes in your code. Open View->Git Changes and see that Source.cpp is located under Changes tab. To observe the changes double click Source.cpp. A screen showing the changes will be opened. Here, you can observe the line added at Step 5 is highlighted green. You should commit your changes now. First, enter a message on Git Changes window, then, click Commit All. This operation does some local changes in your computer. To push the changes to your repository, you should click the push button which is on top-right of Git Changes window. 
 8.	After pushing the changes, check Source.cpp on your GitHub repository to see the changes that you have made. 
