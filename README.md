@@ -1,10 +1,10 @@
-# homework-0
+# Homework 0
 
-
-Homework 0
 In this homework, you are expected to:
 •	Create a GitHub account and Join GitHub Classroom
+
 •	Install Visual Studio
+
 •	Do the first assignment
 
 GitHub Instructions
